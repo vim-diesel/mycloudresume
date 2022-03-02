@@ -15,11 +15,8 @@
     </p>
     <p>
       &emsp;I develop with the idea that software should be fast, accessible,
-      and have an intuitive interface. I believe that companies should launch
-      fast and iterate often. The most important part of creating software is to
-      get it out there for people to see and use and keep it running through the
-      unexpected. Working in the cloud enables us to keep up in a rapidly
-      changing environment, with speed and reliability.
+      and have an intuitive interface. The most important part of creating software is to
+      get it out there for people to see and use.
     </p>
     <p>
       &emsp;I grew up in Canada and recently moved my homebase to Peru, and I
